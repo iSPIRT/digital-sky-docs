@@ -52,6 +52,13 @@ UIN API
 [LIST_ALL](apis/uinListAll)
 [LIST_USER](apis/uinListUser)
 
+Fly Drone Permission API
+[ADD](apis/flyDronePermissionAdd)
+[EDIT](apis/flyDronePermissionEdit)
+[APPROVE](apis/flyDronePermissionApprove)
+[LIST_ALL](apis/flyDronePermissionListAll)
+[LIST_USER](apis/flyDronePermissionListUser)
+
 [List All Applications](apis/applicationsListAll)
 
 
