@@ -2,7 +2,7 @@
 
 API for admin to create drone type/model
 
-**URL** : `/api/droneType`
+**URL** : `/api/droneType/<id>`
 
 **Method** : `PATCH`
 
