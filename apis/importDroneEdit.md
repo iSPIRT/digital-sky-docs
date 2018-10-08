@@ -1,6 +1,6 @@
-# Local Drone Acquisition Application Edit
+# Import Drone Acquisition Application Edit
 
-API to update local drone Acquisition application
+API to update import drone application
 
 **URL** : `/api/applicationForm/importDroneApplication/<id>`
 
