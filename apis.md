@@ -23,8 +23,8 @@ Organization Operator Profile API
 [EDIT](apis/orgOperatorEdit)
 
 Manufacturer Profile API
-[ADD](apis/manufacturerAdd)
-[EDIT](apis/manufacturerEdit)
+[ADD](apis/manufacturerProfileAdd)
+[EDIT](apis/manufacturerProfileEdit)
 
 UAOP API
 [ADD](apis/uaopAdd)
