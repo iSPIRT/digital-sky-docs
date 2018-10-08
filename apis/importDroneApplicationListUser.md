@@ -1,6 +1,6 @@
-# Local Drone Acquisition Applications List for current user
+# Import Drone Acquisition Applications List for current user
 
-API to list all local drone acquisition applications for current user
+API to list all import drone applications for current user
 
 **URL** : `/api/applicationForm/importDroneApplication/list`
 
