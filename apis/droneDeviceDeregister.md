@@ -6,7 +6,7 @@ API for drone to deregister
 
 **Method** : `PATCH`
 
-**Auth required** : NO,
+**Auth required** : NO
 
 **Headers** : application/json
 
