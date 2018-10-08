@@ -67,7 +67,7 @@ Fly Drone Permission API
 
 Drone Registration/Deregistration API
 [Registration](apis/droneDeviceRegister)
-[Deregistration](apis/droneDeviceDeRegister)
+[Deregistration](apis/droneDeviceDeregister)
 
 Drone Type API
 [Add](apis/droneTypeAdd)
