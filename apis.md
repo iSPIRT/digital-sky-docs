@@ -22,6 +22,10 @@ Organization Operator Profile API
 [ADD](apis/orgOperatorAdd)
 [EDIT](apis/orgOperatorEdit)
 
+Manufacturer Profile API
+[ADD](apis/manufacturerAdd)
+[EDIT](apis/manufacturerEdit)
+
 UAOP API
 [ADD](apis/uaopAdd)
 [EDIT](apis/uaopEdit)
@@ -30,8 +34,8 @@ UAOP API
 [LIST_USER](apis/uaopListUser)
 
 
-Local Acquisition Drone API
-[ADD](apis/localAcquisitionEdit)
+Local Drone Acquisition API
+[ADD](apis/localAcquisitionAdd)
 [EDIT](apis/localAcquisitionEdit)
 [APPROVE](apis/localAcquisitionApprove)
 [LIST_ALL](apis/localAcquisitionListAll)
@@ -60,6 +64,17 @@ Fly Drone Permission API
 [LIST_USER](apis/flyDronePermissionListUser)
 
 [List All Applications](apis/applicationsListAll)
+
+Drone Registration/Deregistration API
+[Registration](apis/droneDeviceRegister)
+[Deregistration](apis/droneDeviceDeRegister)
+
+Drone Type API
+[Add](apis/droneTypeAdd)
+[Edit](apis/droneTypeEdit)
+[List All](apis/droneTypeListAll)
+
+
 
 
 
