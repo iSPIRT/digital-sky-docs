@@ -6,7 +6,7 @@ API for drones to register
 
 **Method** : `POST`
 
-**Auth required** : NO,
+**Auth required** : NO
 
 **Headers** : application/json
 
