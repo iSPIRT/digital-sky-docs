@@ -15,18 +15,16 @@ API for drones to register
 ```json
 {
   "drone" : {
-			"version" : [version of api as string and is mandatory],
-			"txn": [transaction identifier (mandatory string attribute of max length 50) entered by manufacturer, which is also returned as 
-                part of response as is and is useful for linking transactions full round trip across systems],
-			"deviceId": [Unique Drone Device Id which is a mandatory string attribute],
-			"deviceModelId": [mandatory attribute of type string],
-			"operatorBusinessIdentifier" : [Operator Unique identifier to be linked to the drone device which is mandatory string 
+	"version" : "[version of api as string and is mandatory]",
+	"txn": "[transaction identifier (mandatory string attribute of max length 50) entered by manufacturer, 				which is also returned as part of response as is and is useful for linking transactions full 				round trip across systems],
+	"deviceId": [Unique Drone Device Id which is a mandatory string attribute],
+	"deviceModelId": [mandatory attribute of type string],
+	"operatorBusinessIdentifier" : [Operator Unique identifier to be linked to the drone device which is mandatory string 
               attributeof max length 36],
-			"idHash" : [optional string attribute],
+	"idHash" : [optional string attribute],
 	},
-	"signature" : [Base64 Encoded Digital Signature(SHA256withRSA ) of the drone data and is a mandatory string attribute] ,
-	"digitalCertificate" : [Base64 Encoded X509 Certificate of the manufacturer and is a mandatory string attribute]
-
+"signature" : [Base64 Encoded Digital Signature(SHA256withRSA signed)of the drone data and is a mandatory string attribute] ,
+"digitalCertificate" : [Base64 Encoded X509 Certificate of the manufacturer and is a mandatory string attribute]
 }
 ```
 
@@ -39,7 +37,7 @@ API for drones to register
 {	
    "txn": [transaction identifier as entered in the request],
    "responseTimeStamp": "",
-   "code": [ one of REGISTERED, REGISTRATION_FAILED, OPERATOR_BUSINESS_IDENTIFIER_INVALID, OPERATOR_BUSINESS_IDENTIFIER_MISSING
+   "code": [ one of REGISTERED, REGISTRATION_FAILED, OPERATOR_BUSINESS_IDENTIFIER_INVALID,OPERATOR_BUSINESS_IDENTIFIER_MISSING
             , INVALID_SIGNATURE, INVALID_DIGITAL_CERTIFICATE, DRONE_ALREADY_REGISTERED, INVALID_MANUFACTURER
             , MANUFACTURER_BUSINESS_IDENTIFIER_INVALID, BAD_REQUEST_PAYLOAD
            ],
