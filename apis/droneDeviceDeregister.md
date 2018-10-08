@@ -52,9 +52,9 @@ returned as part of response as is and is useful for linking transactions full r
 
 ## Error Response
 
-**Condition** : If provided with invalid payload, missing mandatory attributes, invalid digital signature, manufacturer business identifier in the url is invalid, manufacturer organisation name in the digital certificate is not matching with that
+**Conditions** : If provided with invalid payload, missing mandatory attributes, invalid digital signature, invalid manufacturer business identifier in the url, manufacturer organisation name in the digital certificate not matching with that
 of the subject name in the digital certificate sent as a part of payload, invalid digital certificate sent as part of payload,
-invalid/missing manufacturer intermediate/trusted digital certificate chain, drone is not registered with the unique device identifier
+invalid/missing manufacturer intermediate/trusted digital certificate chain, drone not registered with the unique device identifier
 
 **Code** : `400 BAD REQUEST`
 
