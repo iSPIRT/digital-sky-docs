@@ -23,7 +23,7 @@ returned as part of response as is and is useful for linking transactions full r
 	"operatorBusinessIdentifier" : "[Operator Unique identifier to be linked to the drone device which is mandatory string attributeof max length 36]",
 	"idHash" : "[optional string attribute]",
 	},
-"signature" : "[Base64 Encoded Digital Signature(SHA256withRSA signed)of the drone data and is a mandatory string attribute]" ,
+"signature" : "[Base64 Encoded Digital Signature(SHA256withRSA signed)of the drone data in raw json form and is a mandatory string attribute]" ,
 "digitalCertificate" : "[Base64 Encoded X509 Certificate of the manufacturer and is a mandatory string attribute]"
 }
 ```
