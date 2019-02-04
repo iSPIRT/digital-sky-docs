@@ -1,6 +1,6 @@
 # APIS
 
-[Register API](apis/register)
+[Register API](apis/register.md)
 
 [VerifyAccount](apis/verifyAccountEmail)
 
