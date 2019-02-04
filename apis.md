@@ -2,77 +2,77 @@
 
 [Register API](apis/register.md)
 
-[VerifyAccount](apis/verifyAccountEmail)
+[VerifyAccount](apis/verifyAccountEmail.md)
 
-[Login API](apis/login)
+[Login API](apis/login.md)
 
-[Generate Reset Password Link API](apis/generateResetPasswordLink)
+[Generate Reset Password Link API](apis/generateResetPasswordLink.md)
 
-[Reset Password API](apis/resetPassword)
+[Reset Password API](apis/resetPassword.md)
 
 Pilot Profile API
-[ADD](apis/pilotProfileAdd)
-[EDIT](apis/pilotProfileEdit)
+[ADD](apis/pilotProfileAdd.md)
+[EDIT](apis/pilotProfileEdit.md)
 
 Individual Operator Profile API
-[ADD](apis/individualOperatorAdd)
-[EDIT](apis/individualOperatorEdit)
+[ADD](apis/individualOperatorAdd.md)
+[EDIT](apis/individualOperatorEdit.md)
 
 Organization Operator Profile API
-[ADD](apis/orgOperatorAdd)
-[EDIT](apis/orgOperatorEdit)
+[ADD](apis/orgOperatorAdd.md)
+[EDIT](apis/orgOperatorEdit.md)
 
 Manufacturer Profile API
-[ADD](apis/manufacturerProfileAdd)
-[EDIT](apis/manufacturerProfileEdit)
+[ADD](apis/manufacturerProfileAdd.md)
+[EDIT](apis/manufacturerProfileEdit.md)
 
 UAOP API
-[ADD](apis/uaopAdd)
-[EDIT](apis/uaopEdit)
-[APPROVE](apis/uaopApprove)
-[LIST_ALL](apis/uaopListAll)
-[LIST_USER](apis/uaopListUser)
+[ADD](apis/uaopAdd.md)
+[EDIT](apis/uaopEdit.md)
+[APPROVE](apis/uaopApprove.md)
+[LIST_ALL](apis/uaopListAll.md)
+[LIST_USER](apis/uaopListUser.md)
 
 
 Local Drone Acquisition API
-[ADD](apis/localAcquisitionAdd)
-[EDIT](apis/localAcquisitionEdit)
-[APPROVE](apis/localAcquisitionApprove)
-[LIST_ALL](apis/localAcquisitionListAll)
-[LIST_USER](apis/localAcquisitionListUser)
+[ADD](apis/localAcquisitionAdd.md)
+[EDIT](apis/localAcquisitionEdit.md)
+[APPROVE](apis/localAcquisitionApprove.md)
+[LIST_ALL](apis/localAcquisitionListAll.md)
+[LIST_USER](apis/localAcquisitionListUser.md)
 
 
 Import Drone API
-[ADD](apis/importDroneAdd)
-[EDIT](apis/importDroneEdit)
-[APPROVE](apis/importDroneApprove)
-[LIST_ALL](apis/importDroneListAll)
-[LIST_USER](apis/importDroneListUser)
+[ADD](apis/importDroneAdd.md)
+[EDIT](apis/importDroneEdit.md)
+[APPROVE](apis/importDroneApprove.md)
+[LIST_ALL](apis/importDroneListAll.md)
+[LIST_USER](apis/importDroneListUser.md)
 
 UIN API
-[ADD](apis/uinAdd)
-[EDIT](apis/uinEdit)
-[APPROVE](apis/uinApprove)
-[LIST_ALL](apis/uinListAll)
-[LIST_USER](apis/uinListUser)
+[ADD](apis/uinAdd.md)
+[EDIT](apis/uinEdit.md)
+[APPROVE](apis/uinApprove.md)
+[LIST_ALL](apis/uinListAll.md)
+[LIST_USER](apis/uinListUser.md)
 
 Fly Drone Permission API
-[ADD](apis/flyDronePermissionAdd)
-[EDIT](apis/flyDronePermissionEdit)
-[APPROVE](apis/flyDronePermissionApprove)
-[LIST_ALL](apis/flyDronePermissionListAll)
-[LIST_USER](apis/flyDronePermissionListUser)
+[ADD](apis/flyDronePermissionAdd.md)
+[EDIT](apis/flyDronePermissionEdit.md)
+[APPROVE](apis/flyDronePermissionApprove.md)
+[LIST_ALL](apis/flyDronePermissionListAll.md)
+[LIST_USER](apis/flyDronePermissionListUser.md)
 
-[List All Applications](apis/applicationsListAll)
+[List All Applications](apis/applicationsListAll.md)
 
 Drone Registration/Deregistration API
-[Registration](apis/droneDeviceRegister)
-[Deregistration](apis/droneDeviceDeregister)
+[Registration](apis/droneDeviceRegister.md)
+[Deregistration](apis/droneDeviceDeregister.md)
 
 Drone Type API
-[Add](apis/droneTypeAdd)
-[Edit](apis/droneTypeEdit)
-[List All](apis/droneTypeListAll)
+[Add](apis/droneTypeAdd.md)
+[Edit](apis/droneTypeEdit.md)
+[List All](apis/droneTypeListAll.md)
 
 
 
